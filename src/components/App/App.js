@@ -2,7 +2,7 @@ import React from 'react'
 import './app.css'
 import
 {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Route,
   Switch,
 }
