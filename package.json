@@ -2,6 +2,7 @@
   "name": "react-hello",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://Sunny-zz.github.io/cnode",
   "dependencies": {
     "axios": "^0.17.1",
     "react": "^16.1.1",
